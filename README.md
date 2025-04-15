@@ -11,4 +11,4 @@ The Lorenz system is governed by the following equations:
 
 Here is a sample trajectory of the Lorenz attractor:
 
-![Lorenz Plot](Plots/lorentz_3d.png)
+![Lorenz Plot](lorentz_3d.png)
