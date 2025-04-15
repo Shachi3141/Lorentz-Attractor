@@ -4,7 +4,7 @@ In this Repo have all detalisl analysis about well known nonlinear system called
 ## Equations
 The Lorenz system is governed by the following equations:
 
-![Lorenz Equations](images/lorenz_eq.png)
+![Lorenz Equations](Lorentz equation.png)
 with parameters
 
 - σ (sigma) = 10
@@ -15,7 +15,7 @@ with parameters
 
 Here is a sample trajectory of the Lorenz attractor:
 
-![Lorenz Plot](plots/lorenz_traj.png)
+![Lorenz Plot](lorentz_3d.png)
 
 
 ## Lorenz System
