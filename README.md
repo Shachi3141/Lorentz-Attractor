@@ -4,7 +4,7 @@ In this Repo have all detalisl analysis about well known nonlinear system called
 ## Equations
 The Lorenz system is governed by the following equations:
 
-![Lorenz Equations](Equation/Lorentz equation.png)
+![Lorenz Equations](Lorentz equation.png)
 
 
 ## Plot
