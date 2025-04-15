@@ -18,3 +18,6 @@ Here is a sample trajectory of the Lorenz attractor:
 
 ## Animation of two succesive Peaks of Z 
 ![](https://github.com/Shachi3141/Lorentz-Attractor/blob/main/Plots/Lorentz-z_peaks.gif)
+
+### When two trajectories seperated the log(distance) get saturated
+![](https://github.com/Shachi3141/Lorentz-Attractor/blob/main/Plots/Distance-of-two-Traj.gif)
