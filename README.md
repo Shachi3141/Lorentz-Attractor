@@ -12,3 +12,9 @@ The Lorenz system is governed by the following equations:
 Here is a sample trajectory of the Lorenz attractor:
 
 ![Lorenz Plot](https://github.com/Shachi3141/Lorentz-Attractor/blob/Plots/lorentz_3d.png)
+
+## Animation of Trajectory and Peaks of Z
+![](https://github.com/Shachi3141/Lorentz-Attractor/blob/main/Plots/Trajectory-and-z_peaks.gif)
+
+## Animation of two succesive Peaks of Z 
+![](https://github.com/Shachi3141/Lorentz-Attractor/blob/main/Plots/Lorentz-z_peaks.gif)
